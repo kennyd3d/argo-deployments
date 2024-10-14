@@ -1,2 +1,2 @@
 namespace: qa
-image: kennyd3d/hello-world-app:64982fa
+image: kennyd3d/hello-world-app:0.0.1
