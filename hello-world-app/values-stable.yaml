@@ -1,2 +1,2 @@
 namespace: dev
-image: kennyd3d/hello-world-app:dev
+image: kennyd3d/hello-world-app:latest
