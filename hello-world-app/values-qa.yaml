@@ -1,2 +1,2 @@
-namespace: dev
+namespace: qa
 image: kennyd3d/hello-world-app:latest
