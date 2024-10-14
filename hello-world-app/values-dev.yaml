@@ -1,5 +1,5 @@
 namespace: dev
-image: kennyd3d/hello-world-app:6e4ec18
+image: kennyd3d/hello-world-app:11e167e
 environments:
   dev:
     image: kennyd3d/hello-world-app:d03ee12
