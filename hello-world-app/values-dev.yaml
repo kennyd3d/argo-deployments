@@ -1,2 +1,2 @@
 namespace: dev
-image: kennyd3d/hello-world-app:a94b3fd
+image: kennyd3d/hello-world-app:18cc804
