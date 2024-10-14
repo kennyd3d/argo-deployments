@@ -2,4 +2,4 @@ namespace: dev
 image: kennyd3d/hello-world-app:6e4ec18
 environments:
   dev:
-    image: kennyd3d/hello-world-app:eee3b47
+    image: kennyd3d/hello-world-app:88fa1da
